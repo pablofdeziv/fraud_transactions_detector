@@ -44,7 +44,7 @@ This project explores predictive modelling techniques for supervised learning us
 ## 📁 Files
 
 - `lab2_supervised_learning.ipynb` – main notebook with all steps
-- *(Datasets not included for privacy, add your own copie of `creditcard.csv`)*
+- *(Datasets not included for privacy, add your own copy of `creditcard.csv`)*
 
 ---
 
